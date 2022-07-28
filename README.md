@@ -1,5 +1,8 @@
 # SI-Project
-#   Column                                                                                                
+# Total colums : 42
+# Total Records : 54
+#   Columns
+
 ---  ------                                                                                                                                                                                          
  1   Age   
  2   Gender 
